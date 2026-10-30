@@ -1,0 +1,14 @@
+{
+  "login": "Login",
+  "username": "Username",
+  "password": "Password",
+  "profile_setup": "Complete your profile",
+  "welcome": "Welcome, {name} - here's your dashboard",
+  "full_name": "Full name",
+  "phone": "Phone number",
+  "position": "Position / job title",
+  "department": "Department",
+  "short_bio": "Short bio",
+  "language": "Preferred language",
+  "save_profile": "Save profile"
+}

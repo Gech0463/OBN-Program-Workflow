@@ -1,0 +1,1 @@
+</main></div><?php if (!empty($_SESSION['welcome_toast'])): ?><div class="toast success" data-toast role="status" aria-live="polite"><?= e($_SESSION['welcome_toast']) ?></div><?php unset($_SESSION['welcome_toast']); endif; ?><script src="assets/js/app.js"></script></body></html>

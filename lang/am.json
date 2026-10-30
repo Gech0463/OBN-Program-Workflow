@@ -1,0 +1,14 @@
+{
+  "login": "ግባ",
+  "username": "የተጠቃሚ ስም",
+  "password": "የይለፍ ቃል",
+  "profile_setup": "መገለጫዎን ያጠናቅቁ",
+  "welcome": "እንኳን ደህና መጡ፣ {name} - ዳሽቦርድዎን ይመልከቱ",
+  "full_name": "ሙሉ ስም",
+  "phone": "ስልክ ቁጥር",
+  "position": "የስራ መደብ",
+  "department": "ክፍል",
+  "short_bio": "አጭር መግለጫ",
+  "language": "የተመረጠ ቋንቋ",
+  "save_profile": "መገለጫ አስቀምጥ"
+}

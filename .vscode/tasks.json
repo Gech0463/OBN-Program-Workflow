@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Format PHP readability",
+			"type": "shell",
+			"command": "C:\\xampp\\php\\php.exe",
+			"args": [
+				"tools/format_php_readability.php"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		}
+	]
+}
